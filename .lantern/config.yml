@@ -1,0 +1,9 @@
+profile: agentic-software-dev
+
+tokens:
+  copilot_pat_secret: COPILOT_FINE_GRAINED_PAT
+  user_pat_convention: true
+  user_pat_prefix: COPILOT_PAT
+  user_map:
+    e2e-bot: COPILOT_PAT_E2EBOT
+    e2e-fallback-user: COPILOT_PAT_NONEXISTENT
